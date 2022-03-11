@@ -1,0 +1,27 @@
+.login {
+  display: grid;
+  place-items: center;
+  height: 100vh;
+  background-image: linear-gradient(#ff01de, #7e00ff);
+}
+.login__logo {
+  margin-top: 40px;
+  width: 10%;
+  transition: all 0.5s ease;
+}
+.login__link {
+  padding: 20px;
+  background-image: linear-gradient(#ff01de, #7e00ff);
+  text-decoration: none;
+  color: #fff;
+  font-weight: 600;
+  border: #fff 1px solid;
+  border-radius: 99px;
+  transition: all 0.5s ease;
+}
+.login__link:hover {
+  background-image: linear-gradient(#ffffff, #ffffff);
+  color: #7e00ff;
+  background-color: #fff;
+  border: 1px solid #7e00ff;
+}

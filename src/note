@@ -1,0 +1,27 @@
+ d46b5104787b49b8b2ed439942b9995a
+
+ 1:11
+ substrng :- it help to cut the code in diffecent part.
+ 
+ useEffect () :- is used to run the code based on a given condition.
+ redirectUri :- after the uri you need to do the callback like this [http://...../callback]
+
+ spotify APIs : - npm i spotify-web-api-js
+
+Data Layer
+ Problem : - Prop drilling
+ Tightly Coupled code
+ Solution : -  Context API
+
+ Learn about :- React Context apis
+
+ HOOOK :-
+ # Context
+ # useReducer
+
+ React Docus
+
+ live shere
+ covid app clone
+
+3'45
